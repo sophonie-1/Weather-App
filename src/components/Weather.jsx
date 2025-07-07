@@ -81,7 +81,7 @@ export default function Weather() {
       <p className="temperature">{weatherData.temperature}°C</p>
 
       <div className="col">
-        <img src="/humidity-icon.png" alt="" className="humidity-con" />
+        <img src="humidity-icon.png" alt="" className="humidity-con" />
         <div>
           <p className="weather-description">humidity</p>
           <p className="weather-details">{weatherData.humidity}°C</p>
@@ -95,7 +95,7 @@ export default function Weather() {
         </div>
       </div>
       <div className="col">
-        <img src="/weatherInfor.png" alt="" className="humidity-con" />
+        <img src="weatherInfor.png" alt="" className="humidity-con" />
         <div>
           <p className="weather-description">weather Description</p>
           <p className="weather-details">{weatherData.Wdescription}</p>
