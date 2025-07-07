@@ -86,7 +86,7 @@ API Integration: Uses Axios to make asynchronous requests to the OpenWeatherMap 
 Styling: Tailwind CSS provides responsive and utility-first styling for a clean and modern UI.
 
 # Live Demo
-You can view a live demo of the app at https://sophonie-1.github.ioWeather-App/
+You can view a live demo of the app at https://sophonie-1.github.io/Weather-App/
 Contributing
 Contributions are welcome! To contribute:
 
