@@ -70,13 +70,13 @@ export default function Weather() {
           placeholder="search..."
         />
         <img
-          src="/search-icon.png"
+          src="search-icon.png"
           onClick={() => handleInput()}
           alt=""
           className="search-icon"
         />
       </div>
-      <img src="/sun-iconn.png" alt="sun icon" className="sun-icon" />
+      <img src="sun-iconn.png" alt="sun icon" className="sun-icon" />
       <p className="location">{weatherData.city || "City not found"}</p>
       <p className="temperature">{weatherData.temperature}°C</p>
 
