@@ -23,8 +23,8 @@ OpenWeatherMap API: Provides real-time weather data
 Follow these steps to set up and run the project locally:
 
 # Clone the Repository
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/sophonie-1/Weather-App.git
+cd Weather-App
 
 
 Install DependenciesEnsure you have Node.js installed. Then run:
